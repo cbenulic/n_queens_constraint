@@ -1,0 +1,4 @@
+Constraint solution of the n queens problem using Gecode.
+N queens are placed on a board according to the rules of
+the n queens problem. Number of queens is changed by changing
+opt.size in main function.
